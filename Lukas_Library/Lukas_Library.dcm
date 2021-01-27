@@ -1,0 +1,124 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 28C64B
+D Paged Parallel EEPROM 256Kb (32K x 8), DIP-28/SOIC-28
+K Parallel EEPROM 256Kb
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0006.pdf
+$ENDCMP
+#
+$CMP 6116SA15TPG
+D 2K x 8-Bit CMOS RAM
+$ENDCMP
+#
+$CMP BU4S71G2-TR
+D 2 input 5v logic OR gate
+$ENDCMP
+#
+$CMP ControllerBoardV1
+D UBCO MOTORSPORTS CONTROLLERBOARDV1.0
+K FSAE UBCO MOTORSPORTS
+$ENDCMP
+#
+$CMP ControllerBoardV2
+D UBCO MOTORSPORTS CONTROLLERBOARD V2.0
+K FSAE UBCO MOTORSPORTS
+$ENDCMP
+#
+$CMP FS32K116
+D S32K Automotive Microcontroller
+K NXP
+$ENDCMP
+#
+$CMP HaltechElite1500
+D Haltech ECU
+$ENDCMP
+#
+$CMP LM1117-2.5
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-5.0
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP MXS1.2
+D AIM Digital Dash
+$ENDCMP
+#
+$CMP NC7S32M5X
+D two input OR Gate
+$ENDCMP
+#
+$CMP NC7SZ00M5X
+D Two input NAND gate
+K NAND
+F https://www.onsemi.com/pub/Collateral/NC7SZ00-D.PDF
+$ENDCMP
+#
+$CMP NCV7805BDTRKG
+D Linear Voltage Regulator IC Positive Fixed 1 Output 1A DPAK
+K linear regulator ldo fixed positive
+F https://www.onsemi.com/pub/Collateral/MC7800-D.PDF
+$ENDCMP
+#
+$CMP PMU16DL
+D ECUMaster Power Management Unit
+$ENDCMP
+#
+$CMP SN74AHC1G02
+D two input NOR Gate
+$ENDCMP
+#
+$CMP TLV1117-15
+D 800mA Low-Dropout Linear Regulator, 1.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-18
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-25
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-33
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-50
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP UJA1075A
+D System-on-basis chip with HS CAN
+K NXP, SOB, CAN
+F https://www.nxp.com/docs/en/data-sheet/UJA1075A.pdf
+$ENDCMP
+#
+$CMP UJA1075A-3.3
+D System-on-basis chip with HS CAN
+K NXP, SOB, CAN
+F https://www.nxp.com/docs/en/data-sheet/UJA1075A.pdf
+$ENDCMP
+#
+#End Doc Library
