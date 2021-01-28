@@ -10,6 +10,19 @@ $CMP 6116SA15TPG
 D 2K x 8-Bit CMOS RAM
 $ENDCMP
 #
+$CMP AIM_MXS1.2
+D AIM Digital Dash
+$ENDCMP
+#
+$CMP BOSCH_280750149
+D Electronic Throttle Body
+$ENDCMP
+#
+$CMP BOSCH_W0133-1605554
+D Ignition Module
+K Ignition
+$ENDCMP
+#
 $CMP BU4S71G2-TR
 D 2 input 5v logic OR gate
 $ENDCMP
@@ -29,8 +42,12 @@ D S32K Automotive Microcontroller
 K NXP
 $ENDCMP
 #
-$CMP HaltechElite1500
-D Haltech ECU
+$CMP HaltechElite1500_CONA
+D Haltech Elite EFI ECU
+$ENDCMP
+#
+$CMP HaltechElite1500_CONB
+D Haltech Elite EFI ECU
 $ENDCMP
 #
 $CMP LM1117-2.5
@@ -51,10 +68,6 @@ K linear regulator ldo fixed positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
-$CMP MXS1.2
-D AIM Digital Dash
-$ENDCMP
-#
 $CMP NC7S32M5X
 D two input OR Gate
 $ENDCMP
@@ -72,7 +85,7 @@ F https://www.onsemi.com/pub/Collateral/MC7800-D.PDF
 $ENDCMP
 #
 $CMP PMU16DL
-D ECUMaster Power Management Unit
+D ECUMaster Solid State Power Management Unit
 $ENDCMP
 #
 $CMP SN74AHC1G02
@@ -119,6 +132,10 @@ $CMP UJA1075A-3.3
 D System-on-basis chip with HS CAN
 K NXP, SOB, CAN
 F https://www.nxp.com/docs/en/data-sheet/UJA1075A.pdf
+$ENDCMP
+#
+$CMP VR_Sensor
+D Variable Reluctance Sensor
 $ENDCMP
 #
 #End Doc Library
