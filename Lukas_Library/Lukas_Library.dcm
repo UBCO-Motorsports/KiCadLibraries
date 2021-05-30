@@ -88,6 +88,12 @@ $CMP PMU16DL
 D ECUMaster Solid State Power Management Unit
 $ENDCMP
 #
+$CMP PQMC3-D12-S12-S
+D Isolated 12V power supply
+K 12V Isolated
+F https://www.cui.com/product/resource/pqmc3-s.pdf
+$ENDCMP
+#
 $CMP SN74AHC1G02
 D two input NOR Gate
 $ENDCMP
