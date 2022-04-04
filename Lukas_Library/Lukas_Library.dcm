@@ -68,6 +68,12 @@ K linear regulator ldo fixed positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
+$CMP MCT06P10-TP
+D High Power Fet
+K FET, EV
+F https://www.digikey.ca/en/products/detail/micro-commercial-co/MCT06P10-TP/10054363
+$ENDCMP
+#
 $CMP NC7S32M5X
 D two input OR Gate
 $ENDCMP
